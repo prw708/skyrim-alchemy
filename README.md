@@ -5,11 +5,11 @@ Python scripts that finds all combinations of possible potions and poisons in Sk
 In Skyrim, you can mix 2 or 3 ingredients found in the world together. Each ingredient has 4 effects. If any of the 4 effects are shared by these ingredients, a successful potion or poison is created.
 
 ## Tasks
-[x] Parse ingredient list and effects list from the UESP webpage HTML and convert it into CSV files 
-[x] Read all ingredients and all effects from CSV files
-[x] Loop through all possible combinations of 2
-[x] Loop through all possible combinations of 3
-[x] If intersection of ingredients' effects is not empty, save it as a possible potion/poison
+- [x] Parse ingredient list and effects list from the UESP webpage HTML and convert it into CSV files 
+- [x] Read all ingredients and all effects from CSV files
+- [x] Loop through all possible combinations of 2
+- [x] Loop through all possible combinations of 3
+- [x] If intersection of ingredients' effects is not empty, save it as a possible potion/poison
 
 ## Results
 There are 113 ingredients in Skyrim.
