@@ -19,22 +19,46 @@ A total of 234136 combinations of 3 are possible. Out of those, 151703 are valid
 The maximum effects possible are a few 5-effect mixes, a few of them are:
 
 Ancestor Moth Wing + Bone Meal + Spawn Ash
-Fortify Conjuration, Ravage Stamina, Damage Stamina, Resist Fire, Fortify Enchanting
+- Fortify Conjuration
+- Ravage Stamina
+- Damage Stamina
+- Resist Fire
+- Fortify Enchanting
 
 Bear Claws + Eye of Sabre Cat + Hanging Moss
-Fortify One-handed, Restore Stamina, Fortify Health, Damage Magicka Regen, Damage Magicka
+- Fortify One-handed
+- Restore Stamina
+- Fortify Health
+- Damage Magicka Regen
+- Damage Magicka
 
 Blisterwort + Human Heart + Jarrin Root
-Frenzy, Damage Stamina, Damage Magicka Regen, Damage Health, Damage Magicka
+- Frenzy
+- Damage Stamina
+- Damage Magicka Regen
+- Damage Health
+- Damage Magicka
 
 Creep Cluster + Mora Tapinella + Scaly Pholiota
-Fortify Carry Weight, Restore Magicka, Fortify Illusion, Weakness to Magic, Regenerate Stamina
+- Fortify Carry Weight
+- Restore Magicka
+- Fortify Illusion
+- Weakness to Magic
+- Regenerate Stamina
 
 Daedra Heart + Eye of Sabre Cat + Silverside Perch
-Restore Health, Ravage Health, Restore Stamina, Damage Stamina Regen, Damage Magicka
+- Restore Health
+- Ravage Health
+- Restore Stamina
+- Damage Stamina Regen
+- Damage Magicka
 
 Glow Dust + Glowing Mushroom + Hanging Moss
-Resist Shock, Fortify Destruction, Fortify Health, Damage Magicka Regen, Damage Magicka
+- Resist Shock
+- Fortify Destruction
+- Fortify Health
+- Damage Magicka Regen
+- Damage Magicka
 
 ## References
 The ingredient list has been documented by the [Unofficial Elder Scrolls Pages](http://en.uesp.net/wiki/Skyrim:Ingredients).
